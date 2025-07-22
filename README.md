@@ -28,4 +28,4 @@ Here are some of my personal and academic projects:
 
 | Project | Description | Technologies |
 
-| [WorldGuide App (UI/UX)](https://github.com/your-username/worldguide-prototype) | Travel app prototype designed in Figma | Figma |
+| [WorldGuide App (UI/UX)] | Travel app prototype designed in Figma | Figma |
